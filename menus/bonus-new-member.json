@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle bonus-new-member",
+        "command": "bonus-new-member:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "bonus-new-member",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "bonus-new-member:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
