@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Bo Bocor Kumpulan Game Gacor Bonus New Member Nusantara](https://atom.io/packages/bonus-new-member)
-## :fire: klik untuk [Daftar Sekarang](https://agentotoplay.net/) :heavy_check_mark: <<< 
-## :thumbsup: klik untuk [Dapatkan Akun Gacor](https://agentotoplay.net/promo/) :snowflake: <<< 
-## :radio_button: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/register/) :heavy_check_mark: <<< 
+## :fire: klik untuk [Daftar Sekarang](https://golinkurl.github.io/) :heavy_check_mark: <<< 
+## :thumbsup: klik untuk [Dapatkan Akun Gacor](https://golinkurl.github.io/promo/) :snowflake: <<< 
+## :radio_button: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/register/) :heavy_check_mark: <<< 
 
 ## Informasi Situs /Server Kami : 
 
